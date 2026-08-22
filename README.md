@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d47a1&height=220&section=header&text=Devansh%20Chaudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Firmware%20Engineering&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=EE+Undergrad+%40+IIT+Indore+%F0%9F%8E%93;Building+things+that+talk+to+hardware+%F0%9F%94%A7;From+bare-metal+firmware+to+edge+AI+%F0%9F%9A%80)](https://github.com/DevanshChaudhary163)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=EE+Undergrad+%40+IIT+Indore+%F0%9F%8E%93)](https://github.com/DevanshChaudhary163)
 </div>
 
 ---
