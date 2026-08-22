@@ -17,7 +17,7 @@ education: B.Tech Electrical Engineering, IIT Indore (3rd Year)
 focus: Embedded Systems | IoT | Microcontrollers | Firmware Development
 ```
 
-EE undergrad at IIT Indore doing stuff
+interested in cool shit
 
 ---
 
