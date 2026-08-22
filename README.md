@@ -18,7 +18,7 @@ education: B.Tech Electrical Engineering, IIT Indore (3rd Year)
 focus: Embedded Systems | IoT | Microcontrollers | Firmware Development
 ```
 
-I'm an EE undergrad at **IIT Indore** who lives at the intersection of hardware and software. I enjoy writing firmware that runs close to the metal — from custom bootloaders on **STM32** to deploying **TinyML** models on **ESP32**. When I'm not reading datasheets, I'm probably breaking something on a breadboard and calling it "rapid prototyping."
+EE undergrad at IIT Indore doing stuff
 
 ---
 
