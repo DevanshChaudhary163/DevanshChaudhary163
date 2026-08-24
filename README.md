@@ -9,7 +9,7 @@
 
 ---
 
-## ⚡ About Me
+## Bio
 
 ```yaml
 name: Devansh Chaudhary
@@ -21,7 +21,7 @@ interested in cool shit
 
 ---
 
-## 🔩 Featured Projects
+## Some of my work
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ Edge-deployed **TinyML** model on ESP32 that listens for mechanical faults via a
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech stack
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Edge-deployed **TinyML** model on ESP32 that listens for mechanical faults via a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=DevanshChaudhary163&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&hide_rank=true" height="170"/>
@@ -86,7 +86,7 @@ Edge-deployed **TinyML** model on ESP32 that listens for mechanical faults via a
 
 ---
 
-## 📬 Let's Connect
+## Contact Info
 
 <div align="center">
 
