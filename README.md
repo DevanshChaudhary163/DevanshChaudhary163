@@ -1,6 +1,10 @@
 <div align="center">
+
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=EE+Undergrad+%40+IIT+Indore+%F0%9F%8E%93)](https://github.com/DevanshChaudhary163)
+<a href="https://github.com/DevanshChaudhary163">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=EE+Undergrad+%40+IIT+Indore+%F0%9F%8E%93" alt="Typing SVG" />
+</a>
+
 </div>
 
 ---
